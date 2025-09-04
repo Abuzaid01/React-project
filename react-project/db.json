@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Afif Aliyu",
+      "email": "imamafif@gmail.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    },
+    {
+      "id": "2",
+      "name": "haleem",
+      "email": "halee@gmail.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    },
+    {
+      "id": "3",
+      "name": "Fati",
+      "email": "fati@gmail.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    },
+    {
+      "id": "77c914f9-9654-4178-bcd5-bead12c075fd",
+      "name": "isa sani",
+      "email": "isa@gmil.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    },
+    {
+      "id": "a200d385-75ab-4086-8420-52c220b9beab",
+      "name": "sule isa",
+      "email": "suleisa@info.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    }
+  ]
+}
