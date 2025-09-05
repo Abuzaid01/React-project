@@ -63,6 +63,7 @@ const Create = () => {
             />
           </div>
           <button className="btn btn-info mt-3">Submit</button>
+          <pre>{JSON.stringify(user, null, 2)}</pre>
         </form>
       </div>
     </div>

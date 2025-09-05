@@ -9,7 +9,7 @@
     {
       "id": "2",
       "name": "haleem",
-      "email": "halee@gmail.com",
+      "email": "halee@bg.com",
       "image": "https://placehold.co/600x400@2x.png"
     },
     {
@@ -28,6 +28,12 @@
       "id": "a200d385-75ab-4086-8420-52c220b9beab",
       "name": "sule isa",
       "email": "suleisa@info.com",
+      "image": "https://placehold.co/600x400@2x.png"
+    },
+    {
+      "id": "c416aa4d-ee60-4570-8e05-30c0c3a416a7",
+      "name": "afif",
+      "email": "imamafif@gmail.com",
       "image": "https://placehold.co/600x400@2x.png"
     }
   ]

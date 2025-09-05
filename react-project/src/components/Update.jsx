@@ -2,7 +2,7 @@ import axios from 'axios'
 import React, { useEffect } from 'react'
 import { useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { v4 as uuidv4 } from 'uuid'
+// import { v4 as uuidv4 } from 'uuid'
 
 const Update = () => {
   const { id } = useParams()
@@ -77,6 +77,7 @@ const Update = () => {
             />
           </div>
           <button className="btn btn-info mt-3">Update</button>
+          <pre>{JSON.stringify(user, null, 2)}</pre>
         </form>
       </div>
     </div>
